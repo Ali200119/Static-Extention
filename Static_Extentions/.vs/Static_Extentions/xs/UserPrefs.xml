@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{5309ED7F-3262-4B42-97AA-42D352480B53}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AtHome FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AtHome/Program.cs">
+    <Files>
+      <File FileName="AtHome/Program.cs" Line="20" Column="11" />
+      <File FileName="AtHome/Helpers/Extentions.cs" Line="10" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Static_Extentions" expanded="True">
+            <Node name="AtHome" expanded="True" selected="True">
+              <Node name="Helpers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AtHome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
