@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{5309ED7F-3262-4B42-97AA-42D352480B53}|Default">
+﻿<Properties StartupConfiguration="{FA59E3C3-1E54-4775-8579-CE561E7AC27F}|Default">
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AtLesson PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="AtHome/Program.cs">
     <Files>
